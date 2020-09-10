@@ -1,0 +1,46 @@
+{
+    "username": "dunstontc",
+    "name": "Clay Dunston",
+    "honor": 184,
+    "clan": "TrueCoders",
+    "leaderboardPosition": 143973,
+    "skills": [],
+    "ranks": {
+        "overall": {
+            "rank": -6,
+            "name": "6 kyu",
+            "color": "yellow",
+            "score": 151
+        },
+        "languages": {
+            "csharp": {
+                "rank": -6,
+                "name": "6 kyu",
+                "color": "yellow",
+                "score": 138
+            },
+            "java": {
+                "rank": -8,
+                "name": "8 kyu",
+                "color": "white",
+                "score": 2
+            },
+            "javascript": {
+                "rank": -8,
+                "name": "8 kyu",
+                "color": "white",
+                "score": 8
+            },
+            "ruby": {
+                "rank": -8,
+                "name": "8 kyu",
+                "color": "white",
+                "score": 7
+            }
+        }
+    },
+    "codeChallenges": {
+        "totalAuthored": 1,
+        "totalCompleted": 38
+    }
+}
