@@ -12,7 +12,7 @@
 [coveralls]: https://coveralls.io/github/tcd/flat_file?branch=master
 [inch-ci]: https://coveralls.io/github/tcd/flat_file?branch=master
 [license]: https://github.com/tcd/flat_file/blob/master/LICENSE.txt
-[docs]: https://www.rubydoc.info/gems/flat_file/0.2.0
+[docs]: https://www.rubydoc.info/gems/flat_file/0.3.0
 
 Convenience methods for reading CSV, TSV, & JSON files.
 
