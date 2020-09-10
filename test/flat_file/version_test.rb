@@ -16,8 +16,7 @@ module Test
       end
 
       def test_readme_links_to_correct_version
-        skip()
-        search_string = "[docs]: https://www.rubydoc.info/gems/easy_pg/#{::FlatFile::VERSION}"
+        search_string = "[docs]: https://www.rubydoc.info/gems/flat_file/#{::FlatFile::VERSION}"
         readme        = File.read(File.join(File.expand_path("../../..", __FILE__), "README.md"))
         assert(readme.include?(search_string))
       end
