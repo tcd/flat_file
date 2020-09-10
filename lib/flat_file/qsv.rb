@@ -35,7 +35,7 @@ module FlatFile
     # @param _field_info [Hash]
     # @return [Object]
     def self.parse_postico_json(value, _field_info)
-      return value if value.blank?()
+      return value if value.nil?()
       return value if value.length == 0
       return value unless value[0] == "{"
       return ::JSON.parse(value)

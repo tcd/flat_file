@@ -7,9 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- git log $(git describe --tags --abbrev=0)..HEAD --oneline -->
 
-## 0.2.0 (2020-09-09)
+## 0.3.0 (2020-09-09)
 
-### Changed
+- Add inch.ci badge to readme
+- Fix QSV test
+
+## 0.2.0 (2020-09-09)
 
 - Update readme
 - Add Changelog
